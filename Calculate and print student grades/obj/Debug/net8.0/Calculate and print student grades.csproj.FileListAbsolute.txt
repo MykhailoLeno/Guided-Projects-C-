@@ -12,3 +12,18 @@
 /Users/misha/Documents/js/projects/study/collage/homeworks/home_work_7_Guided Projects /Calculate and print student grades/obj/Debug/net8.0/Calculate and print student grades.pdb
 /Users/misha/Documents/js/projects/study/collage/homeworks/home_work_7_Guided Projects /Calculate and print student grades/obj/Debug/net8.0/Calculate and print student grades.genruntimeconfig.cache
 /Users/misha/Documents/js/projects/study/collage/homeworks/home_work_7_Guided Projects /Calculate and print student grades/obj/Debug/net8.0/ref/Calculate and print student grades.dll
+/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate and print student grades/bin/Debug/net8.0/Calculate and print student grades
+/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate and print student grades/bin/Debug/net8.0/Calculate and print student grades.deps.json
+/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate and print student grades/bin/Debug/net8.0/Calculate and print student grades.runtimeconfig.json
+/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate and print student grades/bin/Debug/net8.0/Calculate and print student grades.dll
+/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate and print student grades/bin/Debug/net8.0/Calculate and print student grades.pdb
+/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate and print student grades/obj/Debug/net8.0/Calculate and print student grades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate and print student grades/obj/Debug/net8.0/Calculate and print student grades.AssemblyInfoInputs.cache
+/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate and print student grades/obj/Debug/net8.0/Calculate and print student grades.AssemblyInfo.cs
+/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate and print student grades/obj/Debug/net8.0/Calculate and print student grades.csproj.CoreCompileInputs.cache
+/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate and print student grades/obj/Debug/net8.0/Calculate and print student grades.sourcelink.json
+/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate and print student grades/obj/Debug/net8.0/Calculate and print student grades.dll
+/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate and print student grades/obj/Debug/net8.0/refint/Calculate and print student grades.dll
+/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate and print student grades/obj/Debug/net8.0/Calculate and print student grades.pdb
+/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate and print student grades/obj/Debug/net8.0/Calculate and print student grades.genruntimeconfig.cache
+/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate and print student grades/obj/Debug/net8.0/ref/Calculate and print student grades.dll

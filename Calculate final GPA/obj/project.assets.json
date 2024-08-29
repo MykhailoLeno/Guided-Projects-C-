@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate and print student grades/Calculate and print student grades.csproj",
-      "projectName": "Calculate and print student grades",
-      "projectPath": "/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate and print student grades/Calculate and print student grades.csproj",
+      "projectUniqueName": "/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate final GPA/Calculate final GPA.csproj",
+      "projectName": "Calculate final GPA",
+      "projectPath": "/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate final GPA/Calculate final GPA.csproj",
       "packagesPath": "/Users/misha/.nuget/packages/",
-      "outputPath": "/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate and print student grades/obj/",
+      "outputPath": "/Users/misha/Documents/js/projects/study/collage/homeworks/h_w_7/Calculate final GPA/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/misha/.nuget/NuGet/NuGet.Config"
